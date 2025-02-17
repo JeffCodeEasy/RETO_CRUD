@@ -72,7 +72,7 @@ export const Header = () => {
             <span className="sr-only">Menu</span>
             <img
               alt="Man"
-              src="https://media.licdn.com/dms/image/D4E03AQFcb9k5y4kZBw/profile-displayphoto-shrink_200_200/0/1703266653734?e=1709769600&v=beta&t=7XwBllgyGtkAeeord9J3tVA4HBGJr_MINNk-kpZ0_l8"
+              src="https://avatars.githubusercontent.com/u/153242105?v=4"
               className="h-10 w-10 rounded-full object-cover"
             />
   
